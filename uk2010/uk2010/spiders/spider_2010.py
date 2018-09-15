@@ -9,7 +9,7 @@ Created on Thu Sep 13 22:34:52 2018
 from scrapy.selector import Selector
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors.lxmlhtml import LxmlLinkExtractor
-from uk2010.items import Uk2010Item
+from uk2010.uk2010.items import Uk2010Item
 
 
 class Spider2010(CrawlSpider):

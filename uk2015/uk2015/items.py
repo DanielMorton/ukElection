@@ -10,7 +10,6 @@ import scrapy
 
 class Uk2015Item(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
     year = scrapy.Field()
     label = scrapy.Field()
     constituency = scrapy.Field()
