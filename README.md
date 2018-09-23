@@ -5,7 +5,9 @@ Was this a general rule? It was hard to tell just by sampling from the map. Even
 
 The BBC stil has election results online going back at least to 2001. I used the Scrapy package to write scrapers for 2010 and the combined 2015 and 2017 election results. (See the uk2010 and uk2015 folders.) I was only able to find 2015 and 2017 election maps from Ordinance Survey. Overall, my original assessment was borne out for 2010 and 2015, but the snap election of 2017 saw a return to two party competition.
 
-From the images below we see that many districts won by the Conservatives, especially in the south, saw the Liberal Democrats or UKIP come in second. In the north, there was a more direct contest between the Conservatives and Labour.
+From the images below we see that many districts won by the Conservatives, especially in the south, saw the Liberal Democrats or UKIP come in second. In the north, there was a more direct contest between Conservatives and Labour, although some more rural northern seats were Labour/UKIP contests.
+
+In Scotland, the Conservatives were only competative in the south and the east. Most contests in the heartland were Scottish Nationalist/Labour battles, and in the far north SNP/Liberal Democrat.
 
 ![Alt Text](https://github.com/DanielMorton/ukElection/blob/master/Winning%202015.png)
 ![Alt Text](https://github.com/DanielMorton/ukElection/blob/master/Second%202015.png)
