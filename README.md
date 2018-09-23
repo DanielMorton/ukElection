@@ -19,5 +19,5 @@ Although the map looks like a Conservative sweep, in reality this result was bar
 ## 2017
 In 2017, many more contests were straight-up Conservative/Labour. For the first time in decades, more than 80% of the population voted for one of the two major parties. Surprisingly, the Conservatives also had their best results in Scotland since the 1980s, even as they lost their majority.
 
-![Alt Text](https://github.com/DanielMorton/ukElection/blob/master/Winning%202017.png)
+![Alt Text](https://github.com/DanielMorton/ukElection/blob/master/Winner%202017.png)
 ![Alt Text](https://github.com/DanielMorton/ukElection/blob/master/Second%202017.png)
