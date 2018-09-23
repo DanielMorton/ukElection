@@ -1,4 +1,4 @@
-# ukElection
+# UK Election
 
 This started with anecdotal observation I made during the 2015 UK general election. Many, if not most, of the seats in the south of England were not only safe Conservative seats, but Labour didn't even come in second.  Looking back at 2010, I saw that the Liberal Democrats were usually the second party, but by 2015 they had collapsed and were increasingly being replaced by UKIP. Nonetheless, it was clear that for large swaths of the country, especially in the south, the election was not a direct contest between the two major parties.
 
